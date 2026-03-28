@@ -1,0 +1,6 @@
+@DocToSpeechAPI_HostAddress = http://localhost:5122
+
+GET {{DocToSpeechAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
